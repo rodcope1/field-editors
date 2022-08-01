@@ -1,5 +1,5 @@
 // eslint-disable-next-line no-restricted-imports
-import moment from 'moment';
+import moment from 'moment-rodcope1';
 
 type DateFormatFn = (date: Date | string, short?: boolean) => string;
 
