@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@contentful/contentful-slatejs-adapter": "^14.1.0",
-    "@contentful/field-editor-reference": "^0.7.1",
+    "@contentful/field-editor-reference": "0.7.2",
     "@contentful/field-editor-shared": "^0.10.1",
     "@contentful/field-editor-test-utils": "^0.6.1",
     "@contentful/forma-36-react-components": "^3.36.1",
